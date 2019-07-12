@@ -1,0 +1,18 @@
+{
+  "name": "node_rockeseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Renato Reboucas",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.4",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^1.19.1",
+    "require-dir": "^1.2.0"
+  }
+}
